@@ -1,4 +1,4 @@
-# Wordlist with hash crack <br>
+# Wordlist with hash crack (non salted) <br>
 
 <h2>Example : <h2>
 <h3>
