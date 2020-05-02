@@ -1,9 +1,9 @@
 # Wordlist with hash crack (non salted) <br>
 
 <h2>Example : <h2>
-Download :
-  git clone https://github.com/mustafacin/HashCrackers.git
-  chmod 777 hashcracker.py
+Download :<b1>
+  git clone https://github.com/mustafacin/HashCrackers.git<br>
+  chmod 777 hashcracker.py<br>
   python hashcracker.py
 <img src="https://i.ibb.co/jH0bYtt/hashcrack.png" style="width:500px;height:600px;"  >
 just only md5cracker:
