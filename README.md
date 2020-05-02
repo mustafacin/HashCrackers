@@ -4,7 +4,7 @@
 
   
 <img src="https://i.ibb.co/jH0bYtt/hashcrack.png" style="width:500px;height:600px;"  >
-
+just only md5cracker:
   <h3>
 python md5hashcracker.py -w /usr/share/wordlists/rockyou.txt
 <h3>
