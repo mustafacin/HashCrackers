@@ -5,8 +5,8 @@ Download :<br><br>
   git clone https://github.com/mustafacin/HashCrackers.git<br>
   chmod 777 hashcracker.py<br>
   python hashcracker.py<br> <br>
-<img src="https://i.ibb.co/jH0bYtt/hashcrack.png" style="width:500px;height:600px;"  > <br>
-just only md5cracker:
+<img src="https://i.ibb.co/jH0bYtt/hashcrack.png" style="width:500px;height:600px;"  > <br><br>
+just only md5cracker:<br>
   <h3>
 python md5hashcracker.py -w /usr/share/wordlists/rockyou.txt
 <h3>
